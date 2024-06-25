@@ -4,3 +4,4 @@ project of the first week
 1. [cats](cat.md)
 1. [dogs](dog.md)
 1. [tigers](tiger.md)
+1.![lions] (lion.png)
